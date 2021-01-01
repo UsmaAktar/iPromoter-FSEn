@@ -7,8 +7,8 @@ def add_index(feature,start,end):
 
 import numpy as np
 def author():
-    print ('Author: Md.Siddiqur Rahman')
-    print ('Email : ronicse59@gmail.com')
+    print ('Author: Usma Aktar')
+    print ('Email : usma.cse101@gmail.com')
     print('___________________________________________________')
 
 def frequency_count(p, v1, v2, v3, v4):
